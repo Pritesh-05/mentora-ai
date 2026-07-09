@@ -108,21 +108,38 @@ uvicorn app:app --reload
 
 ## 📸 Screenshots
 
-### Login Page
+### Summarizer
 
-(Add Screenshot)
+<img width="1632" height="852" alt="image" src="https://github.com/user-attachments/assets/01419652-0315-4ca9-9a41-f8185da64c8f" />
 
-### Student Dashboard
-
-(Add Screenshot)
 
 ### Mentor Dashboard
 
-(Add Screenshot)
+<img width="1888" height="906" alt="image" src="https://github.com/user-attachments/assets/9d11f0d4-41c1-4abd-91f7-074eaec19ef4" />
+
 
 ### AI Tutor
 
-(Add Screenshot)
+<img width="1871" height="886" alt="image" src="https://github.com/user-attachments/assets/2cf15ae6-eab5-4405-8903-94f9c576e58a" />
+
+### Quiz Generator
+
+<img width="1621" height="776" alt="image" src="https://github.com/user-attachments/assets/da7a8830-8259-426d-bfa7-aad688d25cd2" />
+
+### Flashcard
+<img width="1605" height="755" alt="image" src="https://github.com/user-attachments/assets/af12a3c2-ffd4-4426-b0c1-3d20b07c85fc" />
+
+### Feynman Technique Checker
+<img width="1623" height="872" alt="image" src="https://github.com/user-attachments/assets/acd8892d-9799-42c5-a8e9-96c69de41a36" />
+
+### Exam Panic Mode
+<img width="1600" height="787" alt="image" src="https://github.com/user-attachments/assets/31f592dd-ca57-4f89-bf15-e59c1ed24393" />
+
+### Concept Mode
+<img width="1626" height="833" alt="image" src="https://github.com/user-attachments/assets/482e6e7e-6a66-47d1-9377-5b02f6f95559" />
+
+
+
 
 ---
 
